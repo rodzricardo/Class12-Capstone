@@ -32,4 +32,4 @@ Of the 10, it's broken down like this:
 
 
 This is an example layout of the expected artifacts of your Capstone
-
+ 
