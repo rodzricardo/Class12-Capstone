@@ -1,1 +1,2 @@
-# Class12CapstoneExample
+In here I expect a copy of your test cases that specifically use the GUI to test (and test results). Yes I know it's redundant, but it makes it easier to grade and for outsiders to understand what's being accomplished here. Screenshots are also helpful but be sure to label them so its understood what they reference, and put a reference in the test case for multiple screenshots so we know what part of the test they are from.
+
