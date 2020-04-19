@@ -1,5 +1,5 @@
 
-# Class12CapstoneExample
+# Class12Capstone
 
 The final product must be submitted, including complete source code, documentation, analysis, and so on, as appropriate for the project.  To be considered complete, the student must submit the following artifacts in GitHub as part of their capstone:  
 Test cases (at least 10) and test plan.*  
